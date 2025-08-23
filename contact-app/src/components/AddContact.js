@@ -33,6 +33,6 @@ class AddContact extends React.Component {
             </div>
         )
     }
-}
+};
 
 export default AddContact;
